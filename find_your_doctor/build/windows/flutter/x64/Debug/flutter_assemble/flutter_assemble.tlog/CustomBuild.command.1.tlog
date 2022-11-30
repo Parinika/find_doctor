@@ -1,0 +1,28 @@
+^C:\USERS\PARINIKA\DROPBOX\PC\DESKTOP\SUMMER PROJECT\FIND_DOCTOR\FIND_YOUR_DOCTOR\BUILD\WINDOWS\CMAKEFILES\939EFC70971AF60F679584BC7DEC788D\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter "PROJECT_DIR=C:\Users\Parinika\Dropbox\PC\Desktop\Summer Project\find_doctor\find_your_doctor" FLUTTER_ROOT=C:\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\Parinika\Dropbox\PC\Desktop\Summer Project\find_doctor\find_your_doctor\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\Parinika\Dropbox\PC\Desktop\Summer Project\find_doctor\find_your_doctor" "FLUTTER_TARGET=C:\Users\Parinika\Dropbox\PC\Desktop\Summer Project\find_doctor\find_your_doctor\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\Parinika\Dropbox\PC\Desktop\Summer Project\find_doctor\find_your_doctor\.dart_tool\package_config.json" C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PARINIKA\DROPBOX\PC\DESKTOP\SUMMER PROJECT\FIND_DOCTOR\FIND_YOUR_DOCTOR\BUILD\WINDOWS\CMAKEFILES\25854066C8988FED535B559084CFCCF3\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PARINIKA\DROPBOX\PC\DESKTOP\SUMMER PROJECT\FIND_DOCTOR\FIND_YOUR_DOCTOR\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/windows" "-BC:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/build/windows" --check-stamp-file "C:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

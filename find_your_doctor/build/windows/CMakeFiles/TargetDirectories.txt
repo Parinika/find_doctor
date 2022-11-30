@@ -1,0 +1,10 @@
+C:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/build/windows/runner/CMakeFiles/find_your_doctor.dir
+C:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/build/windows/runner/CMakeFiles/ALL_BUILD.dir

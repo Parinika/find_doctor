@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Parinika\Dropbox\PC\Desktop\Summer Project\find_doctor\find_your_doctor\build\windows\CMakeFiles\25854066c8988fed535b559084cfccf3\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6EB5B366-DE44-308E-A64C-DFF339AEC44A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

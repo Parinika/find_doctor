@@ -1,0 +1,10 @@
+^C:\USERS\PARINIKA\DROPBOX\PC\DESKTOP\SUMMER PROJECT\FIND_DOCTOR\FIND_YOUR_DOCTOR\WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/windows" "-BC:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/build/windows" --check-stamp-file "C:/Users/Parinika/Dropbox/PC/Desktop/Summer Project/find_doctor/find_your_doctor/build/windows/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
